@@ -1,0 +1,14 @@
+C:\Users\Skymmel\RiderProjects\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\Skymmel\RiderProjects\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Skymmel\RiderProjects\Homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\Skymmel\RiderProjects\Homework\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Skymmel\RiderProjects\Homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Skymmel\RiderProjects\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\Skymmel\RiderProjects\Homework\Homework\obj\Debug\Homework.pdb
+C:\Users\Skymmel\WebstormProjects\holiday-homework\Homework\bin\Debug\Homework.exe
+C:\Users\Skymmel\WebstormProjects\holiday-homework\Homework\bin\Debug\Homework.pdb
+C:\Users\Skymmel\WebstormProjects\holiday-homework\Homework\obj\Debug\Homework.csproj.AssemblyReference.cache
+C:\Users\Skymmel\WebstormProjects\holiday-homework\Homework\obj\Debug\Homework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Skymmel\WebstormProjects\holiday-homework\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\Skymmel\WebstormProjects\holiday-homework\Homework\obj\Debug\Homework.exe
+C:\Users\Skymmel\WebstormProjects\holiday-homework\Homework\obj\Debug\Homework.pdb
